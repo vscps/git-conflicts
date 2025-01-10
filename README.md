@@ -12,7 +12,7 @@ This template has a few conflicts to help you practice resolving them.
 2. Use this URL to import the template:
 
 ```
-https://github.com/neuefische/web-git-conflicts-template
+https://github.com/wd-bootcamp/web-git-conflicts-template
 ```
 
 3. Leave the `username` and `accesstoken or password` fields empty.
